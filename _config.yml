@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            Zoit | Words
+locale:           en_GB
 url:
 
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Neil Burrows
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: neilb
   facebook: #username
   google:
     plus: #username
@@ -54,7 +54,7 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: #username
+  flickr: nburrows
   codepen: #username
 
 include: [".htaccess"]
