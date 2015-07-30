@@ -27,12 +27,12 @@ kramdown:
 # Site owner
 owner:
   name: Neil Burrows
-  avatar: bio-photo.jpg
+  avatar: bio-photo.png
   bio: "Describe your self."
   email:
   disqus-shortname:
   twitter: neilb
-  facebook: #username
+  facebook: burrowsns
   google:
     plus: #username
     analytics:
