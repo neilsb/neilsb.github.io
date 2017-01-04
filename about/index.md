@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: About Me
+tags: [about]
+modified: 2017-01-04T16:27:07.573882+00:00
 comments: true
 image:
   feature: sample-image-2.jpg
@@ -10,16 +10,8 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I should write more stuff down.  I'm getting to that age where it's easier to remember your childhood holidays than it is to recall what you did last week.  
 
-## Minimal Mistakes is all about:
+_"Maybe a blog would help"_, I thought.  But that requires effort.  Many times before I've attempted this and many times before I have failed to keep it up.  Will this time be any different?  Unlikely, but hey .. no harm in trying.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+I'll get round to importing old entries sometime.  I wouldn't hold your breath though.
