@@ -9,7 +9,7 @@ url:
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Neil Burrows
   avatar: bio-photo.png
-  bio: "Describe your self."
+  bio: "Software Developer type person"
   email:
   disqus-shortname:
   twitter: neilb
